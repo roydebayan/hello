@@ -1,1 +1,3 @@
 this is my first git project
+the nice thing about you is that you are smart and 
+i am happy to have you with me
